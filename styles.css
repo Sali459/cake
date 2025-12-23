@@ -1,0 +1,17 @@
+body {
+  background-color: #eeb38c;
+  text-align: center;
+}
+
+img {
+  max-width: 50%;
+  height: auto;
+  display: block;
+  margin: auto;
+  border-radius: 15px;
+}
+
+.links {
+  display: flex;
+  justify-content: space-evenly;
+}
